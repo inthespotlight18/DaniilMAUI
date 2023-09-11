@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DaniilMAUI.pages.UsersList"
+             Title="Create Your Account"
+             xmlns:vm="clr-namespace:DaniilMAUI.Models.ViewModels"
+             xmlns:models="clr-namespace:DaniilMAUI.Models"
+             x:DataType="vm:UsersListViewModel"
+             >
+
+    <FlexLayout Direction="Column">
+        <Frame Margin="5" Padding="5" FlexLayout.Basis="600">
+            <VerticalStackLayout Padding="10">
+                
+                <Entry Placeholder="User name" Text="{Binding User.UserName}"  />
+                <Entry Placeholder="Email" Text="{Binding User.Email}"  />
+                <Entry Placeholder="Password" Text="{Binding User.Password}"   />
+
+                <HorizontalStackLayout>
+                    <Label Text=" Prime User" Margin="12" />
+                    <Switch IsToggled="{Binding User.PrimeUser}" />
+                </HorizontalStackLayout>
+
+                <Button Text="Add User" Margin="10" Command="{Binding AddCommand}" />
+                
+            </VerticalStackLayout>
+        </Frame>
+        
+        <!--#512BD4-->
+
+        <ListView FlexLayout.Grow="1" ItemsSource="{Binding AllUsers}" ItemTapped="ListView_ItemTapped">
+            <ListView.Header>
+                <VerticalStackLayout BackgroundColor="Navy" Padding="5">
+                    <Label HorizontalOptions="Center" Text="Users In Our System:" 
+                           TextColor="White" FontAttributes="Bold" />
+                </VerticalStackLayout>
+
+            </ListView.Header>
+
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="{x:Type models:User}">
+                    <TextCell Text="{Binding Email}" Detail="{Binding UserName}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+        <Button
+                Text="Login with Microsoft Account"
+                SemanticProperties.Hint="Login"
+                Clicked="OnLoginClicked"
+                HorizontalOptions="Center" />
+
+    </FlexLayout>
+</ContentPage>
+
