@@ -1,6 +1,6 @@
 using DaniilMAUI.Models.ViewModels;
 
-namespace DaniilMAUI.pages;
+namespace DaniilMAUI.Pages;
 
 public partial class ViewUserInfo : ContentPage
 {

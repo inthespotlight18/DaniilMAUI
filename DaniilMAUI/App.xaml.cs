@@ -1,6 +1,6 @@
 ﻿namespace DaniilMAUI;
 
-using DaniilMAUI.pages;
+using DaniilMAUI.Pages;
 using System.Diagnostics;
 
 public partial class App : Application

@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>4ff29d25-4973-487b-8f12-c93dba78c831</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>D867C2DBA47894F95475647CCBB9CAAE8CC9C73C1C01222828EB761829BBB652</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4ff29d25-4973-487b-8f12-c93dba78c831_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4ff29d25-4973-487b-8f12-c93dba78c831_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-11T19:37:46.800</Modified>
+      <Modified>2023-09-13T18:07:59.700</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-11T19:37:45.872</Modified>
+      <Modified>2023-09-13T18:07:58.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DaniilMAUI.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DaniilMAUI.runtimeconfig.json">
       <PackagePath>DaniilMAUI.runtimeconfig.json</PackagePath>
-      <Modified>2023-09-11T19:33:39.539</Modified>
+      <Modified>2023-09-11T20:39:59.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DaniilMAUI.dll">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\DaniilMAUI.dll">
       <PackagePath>DaniilMAUI.dll</PackagePath>
-      <Modified>2023-09-11T19:37:45.083</Modified>
+      <Modified>2023-09-13T18:07:57.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DaniilMAUI.exe</PackagePath>
-      <Modified>2023-09-11T19:37:45.089</Modified>
+      <Modified>2023-09-13T18:07:57.840</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.0\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1913,6 +1913,14 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-08-17T03:26:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\azure.core\1.34.0\lib\net6.0\Azure.Core.dll">
+      <PackagePath>Azure.Core.dll</PackagePath>
+      <Modified>2023-07-12T16:15:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\azure.identity\1.10.0\lib\netstandard2.0\Azure.Identity.dll">
+      <PackagePath>Azure.Identity.dll</PackagePath>
+      <Modified>2023-08-15T00:12:28.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\communitytoolkit.maui\5.3.0\lib\net7.0-windows10.0.19041\CommunityToolkit.Maui.dll">
       <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
       <Modified>2023-08-09T08:31:12.000</Modified>
@@ -1924,6 +1932,10 @@
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\communitytoolkit.mvvm\8.2.1\lib\net6.0\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
       <Modified>2023-07-05T18:52:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.1\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2020-04-14T22:39:12.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -1961,6 +1973,14 @@
       <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
       <Modified>2022-10-18T16:15:08.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.graph\5.26.0\lib\netstandard2.1\Microsoft.Graph.dll">
+      <PackagePath>Microsoft.Graph.dll</PackagePath>
+      <Modified>2023-09-06T10:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.graph.core\3.0.11\lib\net6.0-windows7.0\Microsoft.Graph.Core.dll">
+      <PackagePath>Microsoft.Graph.Core.dll</PackagePath>
+      <Modified>2023-09-05T07:48:38.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.graphics.win2d\1.0.4\lib\net5.0-windows10.0.17763.0\Microsoft.Graphics.Canvas.Interop.dll">
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2022-10-04T20:36:56.000</Modified>
@@ -1968,6 +1988,10 @@
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.identity.client\4.56.0\lib\net6.0-windows7.0\Microsoft.Identity.Client.dll">
       <PackagePath>Microsoft.Identity.Client.dll</PackagePath>
       <Modified>2023-09-05T18:25:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.identity.client.extensions.msal\2.31.0\lib\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll">
+      <PackagePath>Microsoft.Identity.Client.Extensions.Msal.dll</PackagePath>
+      <Modified>2023-05-24T22:22:58.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.identity.client.nativeinterop\0.13.8\lib\netstandard2.0\Microsoft.Identity.Client.NativeInterop.dll">
       <PackagePath>Microsoft.Identity.Client.NativeInterop.dll</PackagePath>
@@ -1985,9 +2009,45 @@
       <PackagePath>Microsoft.IdentityModel.Logging.dll</PackagePath>
       <Modified>2023-09-05T20:24:46.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.identitymodel.protocols\6.32.2\lib\net6.0\Microsoft.IdentityModel.Protocols.dll">
+      <PackagePath>Microsoft.IdentityModel.Protocols.dll</PackagePath>
+      <Modified>2023-08-25T22:54:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.identitymodel.protocols.openidconnect\6.32.2\lib\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <PackagePath>Microsoft.IdentityModel.Protocols.OpenIdConnect.dll</PackagePath>
+      <Modified>2023-08-25T23:08:46.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.identitymodel.tokens\6.32.3\lib\net6.0\Microsoft.IdentityModel.Tokens.dll">
       <PackagePath>Microsoft.IdentityModel.Tokens.dll</PackagePath>
       <Modified>2023-09-05T20:30:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.kiota.abstractions\1.3.1\lib\netstandard2.1\Microsoft.Kiota.Abstractions.dll">
+      <PackagePath>Microsoft.Kiota.Abstractions.dll</PackagePath>
+      <Modified>2023-08-08T12:28:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.kiota.authentication.azure\1.0.3\lib\netstandard2.1\Microsoft.Kiota.Authentication.Azure.dll">
+      <PackagePath>Microsoft.Kiota.Authentication.Azure.dll</PackagePath>
+      <Modified>2023-06-26T10:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.kiota.http.httpclientlibrary\1.1.1\lib\netstandard2.1\Microsoft.Kiota.Http.HttpClientLibrary.dll">
+      <PackagePath>Microsoft.Kiota.Http.HttpClientLibrary.dll</PackagePath>
+      <Modified>2023-08-28T11:43:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.kiota.serialization.form\1.0.1\lib\netstandard2.1\Microsoft.Kiota.Serialization.Form.dll">
+      <PackagePath>Microsoft.Kiota.Serialization.Form.dll</PackagePath>
+      <Modified>2023-03-10T13:49:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.kiota.serialization.json\1.0.8\lib\netstandard2.1\Microsoft.Kiota.Serialization.Json.dll">
+      <PackagePath>Microsoft.Kiota.Serialization.Json.dll</PackagePath>
+      <Modified>2023-07-13T17:04:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.kiota.serialization.multipart\1.0.0\lib\netstandard2.1\Microsoft.Kiota.Serialization.Multipart.dll">
+      <PackagePath>Microsoft.Kiota.Serialization.Multipart.dll</PackagePath>
+      <Modified>2023-08-02T13:03:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.kiota.serialization.text\1.0.3\lib\netstandard2.1\Microsoft.Kiota.Serialization.Text.dll">
+      <PackagePath>Microsoft.Kiota.Serialization.Text.dll</PackagePath>
+      <Modified>2023-07-13T17:54:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.maui.graphics\7.0.49\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
@@ -2061,9 +2121,17 @@
       <PackagePath>System.IdentityModel.Tokens.Jwt.dll</PackagePath>
       <Modified>2023-09-05T20:20:46.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\system.memory.data\1.0.2\lib\netstandard2.0\System.Memory.Data.dll">
+      <PackagePath>System.Memory.Data.dll</PackagePath>
+      <Modified>2021-04-08T16:45:54.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\system.speech\7.0.0\runtimes\win\lib\net7.0\System.Speech.dll">
       <PackagePath>System.Speech.dll</PackagePath>
       <Modified>2022-10-18T16:18:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\tavis.uritemplates\2.0.0\lib\netstandard2.0\Tavis.UriTemplates.dll">
+      <PackagePath>Tavis.UriTemplates.dll</PackagePath>
+      <Modified>2022-11-21T13:04:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniil Zlenko\.nuget\packages\microsoft.graphics.win2d\1.0.4\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
@@ -2081,9 +2149,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-09-07T21:54:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\DaniilMAUI.deps.json">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\DaniilMAUI.deps.json">
       <PackagePath>DaniilMAUI.deps.json</PackagePath>
-      <Modified>2023-09-11T19:37:46.439</Modified>
+      <Modified>2023-09-13T18:07:59.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.49\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -2097,239 +2165,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-10-28T08:27:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-09-08T22:27:49.487</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:01.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:01.864</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:01.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:01.919</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.027</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-09-08T22:27:49.481</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-09-08T22:27:49.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-09-08T22:28:02.066</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:02.307</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:02.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:02.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:02.341</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-09-08T22:28:02.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-09-08T22:28:02.145</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-09-08T22:28:02.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-09-08T22:28:02.148</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-09-08T22:28:02.151</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-09-08T22:28:02.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-09-08T22:28:02.124</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-09-08T22:28:02.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-09-08T22:28:02.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-09-08T22:28:02.130</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:02.077</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:02.081</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:02.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:02.090</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.095</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-09-08T22:28:02.099</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-09-08T22:28:02.101</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-09-08T22:28:02.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-09-08T22:28:02.104</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-09-08T22:28:02.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:02.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:02.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:02.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:02.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.242</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:02.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:02.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:02.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:02.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:02.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:02.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:02.170</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:02.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:02.246</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:02.252</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:02.259</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:02.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.300</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-09-08T22:28:02.114</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-09-08T22:28:02.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-09-08T22:28:02.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-09-08T22:28:02.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-09-08T22:28:02.205</Modified>
     </AppxPackagedFile>

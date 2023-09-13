@@ -1,1 +1,1 @@
-C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI\DaniilMAUI\DaniilMAUI.csproj;x64
+C:\Users\Daniil Zlenko\Documents\NewCSprojects\DaniilMAUI - Copy\DaniilMAUI\DaniilMAUI.csproj;x64
