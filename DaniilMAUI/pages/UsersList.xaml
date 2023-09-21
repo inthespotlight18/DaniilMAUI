@@ -59,13 +59,18 @@
         HorizontalOptions="Center" />   
 
         
-        <Button
+        <!--<Button
             x:Name="GetUserInfoBtn"
             Text="Login with Microsoft Account"
             SemanticProperties.Hint="Loads user information from Microsoft Graph"
             Clicked="GetUserInfoBtn_Clicked"
-            HorizontalOptions="Center" />   
+            HorizontalOptions="Center" />-->
 
+        <Button
+                Text="Login"
+                SemanticProperties.Hint="Login"
+                Clicked="OnLoginClicked"
+                HorizontalOptions="Center" />
 
 
     </FlexLayout>

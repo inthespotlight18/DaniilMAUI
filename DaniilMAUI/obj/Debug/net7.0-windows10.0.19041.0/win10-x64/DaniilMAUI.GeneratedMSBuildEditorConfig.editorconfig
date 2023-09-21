@@ -28,17 +28,17 @@ build_metadata.AdditionalFiles.ManifestResourceName = DaniilMAUI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Daniil Zlenko/Documents/NewCSprojects/DaniilMAUI/DaniilMAUI/pages/UsersList.xaml]
+[C:/Users/Daniil Zlenko/Documents/NewCSprojects/DaniilMAUI/DaniilMAUI/Pages/UsersList.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = DaniilMAUI.pages.UsersList.xaml
-build_metadata.AdditionalFiles.TargetPath = pages\UsersList.xaml
-build_metadata.AdditionalFiles.RelativePath = pages\UsersList.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DaniilMAUI.Pages.UsersList.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\UsersList.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\UsersList.xaml
 
-[C:/Users/Daniil Zlenko/Documents/NewCSprojects/DaniilMAUI/DaniilMAUI/pages/ViewUserInfo.xaml]
+[C:/Users/Daniil Zlenko/Documents/NewCSprojects/DaniilMAUI/DaniilMAUI/Pages/ViewUserInfo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = DaniilMAUI.pages.ViewUserInfo.xaml
-build_metadata.AdditionalFiles.TargetPath = pages\ViewUserInfo.xaml
-build_metadata.AdditionalFiles.RelativePath = pages\ViewUserInfo.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DaniilMAUI.Pages.ViewUserInfo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ViewUserInfo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ViewUserInfo.xaml
 
 [C:/Users/Daniil Zlenko/Documents/NewCSprojects/DaniilMAUI/DaniilMAUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
